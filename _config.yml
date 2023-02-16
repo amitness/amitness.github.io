@@ -150,5 +150,5 @@ social:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-98232022-1"
+    tracking_id: "G-FTFT9KDBW0"
     anonymize_ip: false
