@@ -16,4 +16,4 @@ Prior to that, I worked as a Machine Learning Engineer at [Fusemachines](https:/
 I initially began my career as a software engineer but transitioned to data science through rigorous [self-study](https://github.com/amitness/learning).
 
 **Get in touch**  
-Please feel free to connect with me on [Twitter](https://twitter.com/amitness) or [LinkedIn](https://www.linkedin.com/in/amitness).
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amitness).
