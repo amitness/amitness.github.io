@@ -18,6 +18,7 @@ External Notebooks which are not written by me are marked with *.
 
 |Goal|Library|Colab|
 |---|---|---|
+|**Approximate Nearest Neighbor**|annoy|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10yt6BXW81NaiivuxKv0GZ74EFBv_CFHC?usp=sharing)|
 |**Commonsense Inference**|event2mind|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xm1YHmq9akYeZR2_mOmBZb0xpCG63v7o?usp=sharing)|
 |**Constituency Parsing**|benepar|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fxqq9OmIgPVT4xQJBT6E1siQtpvc_MV8?usp=sharing)|
 ||benepar in Spacy|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13xv4L9B9gNQ0wCPB7T0T1xRzH71sTrMg?usp=sharing)|
