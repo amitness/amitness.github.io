@@ -18,7 +18,6 @@ External Notebooks which are not written by me are marked with *.
 
 |Goal|Library|Colab|
 |---|---|---|
-|**Approximate Nearest Neighbor**|annoy|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10yt6BXW81NaiivuxKv0GZ74EFBv_CFHC?usp=sharing)|
 |**Commonsense Inference**|event2mind|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xm1YHmq9akYeZR2_mOmBZb0xpCG63v7o?usp=sharing)|
 |**Constituency Parsing**|benepar|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fxqq9OmIgPVT4xQJBT6E1siQtpvc_MV8?usp=sharing)|
 ||benepar in Spacy|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13xv4L9B9gNQ0wCPB7T0T1xRzH71sTrMg?usp=sharing)|
@@ -64,7 +63,8 @@ External Notebooks which are not written by me are marked with *.
 ||finetune deepmoji|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-Ua8QzMXt1v5UwAB3a9SBdk_lNLAfpMS?usp=sharing)|
 ||xlm-t|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zZbuX1yPUNWoqtTXBd8v0miKz-87ajC8?usp=sharing)|
 |**Semantic Role Labeling**|allennlp|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CkgMLPC1Gz6FYnkAySzmWy_Xw1aaluTK?usp=sharing)|
-|**Semantic Search**|faiss|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MSrwFndb62j87-00Rk4s9TQEXjgAWHLw?usp=sharing)|
+|**Semantic Search**|annoy|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10yt6BXW81NaiivuxKv0GZ74EFBv_CFHC?usp=sharing)|
+||faiss|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MSrwFndb62j87-00Rk4s9TQEXjgAWHLw?usp=sharing)|
 ||sentence-transformers|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12hfBveGHRsxhPIUMmJYrll2lFU4fOX06)|
 ||txtai|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MiqtMLo2T86QFo1UN9EXF_C-nPDrECfG?usp=sharing)|
 |**Spelling Correction**|hunspell, jamspell, textblob|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H2dFeW6oDBfNXPPzE06UgfCk0YOacPw1?usp=sharing)|
